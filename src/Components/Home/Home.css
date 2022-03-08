@@ -1,0 +1,106 @@
+/* .mr-3 {
+
+} */
+
+.customer-logos{
+    margin-top: 50px;
+}
+
+.cont-banner-buttons{
+    position: absolute;
+    top:85%;
+}
+
+.Tenplus{
+    margin-top: 40%;
+}
+
+.container_choose{
+    width: 85%;
+}
+/*
+.carousel-item {
+	transition: -webkit-transform 0.5s ease;
+	transition: transform 0.5s ease;
+	transition: transform 0.5s ease, -webkit-transform 0.5s ease;
+	-webkit-backface-visibility: visible;
+	        backface-visibility: visible;
+}
+*/
+.rounded-circle{
+    width: 40px;
+    height: 40px;
+}
+
+.map_img{
+min-height: 40vh;
+width: 80%;
+margin: 0 auto;
+}
+.container_testimonial{
+    display: block!important;
+}
+
+.cont-right-service-div{
+    display: none;
+}
+.active-tabs::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: -5px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: calc(100% + 2px);
+    height: 5px;
+    background: rgb(88, 147, 241);
+  }
+  .container_choose{
+      margin: 40px;
+  }
+  
+  .our_vision{
+   
+      text-align: center!important;
+      align-items: center;
+      justify-content: center;
+  }
+  .missonText{
+      color: #fff;
+  }
+ .our-mission-cont{
+     margin-right: 20px;
+     margin-left: 20px;
+     padding-right: 20px;
+     padding-left: 20px;
+ }
+ .our-vision-cont{
+    margin-right: 20px;
+    margin-left: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+ }
+
+
+.webDevelopment {
+    display: block;
+}
+
+.img-fluid {
+    margin-top: 40px;
+}
+.customer-logos{
+    max-height:30vh;
+
+    
+}
+
+.img1{
+    min-width:40%;
+    min-height:20vh;
+    padding-top: 15px;
+}
+@media only screen and (max-width:480px){
+   
+    
+}

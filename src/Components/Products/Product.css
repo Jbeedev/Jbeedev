@@ -1,0 +1,59 @@
+/* .cont-pricing {
+    margin-left: 5px;
+}
+.zoom:hover {
+    transform: scale(1.2);
+    z-index: 2;
+} */
+
+/* .tabs-content {
+    display: none;
+}
+.tabs-content-active {
+    display: block;
+} */
+
+.content-active {
+    display: block;
+}
+
+.content {
+    display: none;
+}
+.active-tab {
+    background-color: rgb(96, 99, 100);
+    color: #ffff;
+    border-color: rgb(96, 99, 100);
+}
+
+
+.price {
+    font-size: 40px;
+    color: rgb(30, 132, 216);
+    font-weight: 500;
+    padding: 0;
+    margin: 0;
+}
+.price-currency {
+    color: black;
+    font-size: medium;
+    font-weight: 900;
+}
+.list-body li {
+    padding: 10px;
+    justify-content: start;
+}
+.list-body li i {
+    color: blue;
+}
+.price-duration {
+    padding-top: 0;
+    margin-top: 0;
+}
+
+.a-checkbox {
+    display: none;
+}
+.a-checkbox-active {
+    display: block;
+}

@@ -1,0 +1,60 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+  }
+.text{
+    display: inline;
+    width: 100%;
+  }
+    
+  .read-or-hide{
+    color: rgb(192,192,192);
+    cursor: pointer;
+  }
+  .display-blocks{
+      display: none;
+  }
+  .flex{
+      display: flex;
+  }
+  .first{
+      width: 100%;
+  }
+  input[type=text]{  
+    padding: 10px;
+    border: 2px solid rgb(238, 238, 238);
+    border-radius: 20px;
+    border-bottom:1px solid rgb(44, 42, 44);
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    width: 200%
+  }
+  input[type=text1]{
+    padding: 10px;
+    border:0; 
+    border-radius: 20px;
+    border-bottom:1px solid rgb(44, 42, 42);
+    width: 200%
+}
+input:focus{
+    outline: none;
+}
+
+select {
+    padding: 10px;
+    border: 2px solid rgb(238, 238, 238);
+    border-radius: 10px;
+    border-bottom:1px solid rgb(44, 42, 44);
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    width:90%;
+    outline: 0;  
+}
+.city{
+    display: flex;
+    
+} 
+input[type=text2]{
+    border:0; 
+    border-radius: 20px;
+    border-bottom:1px solid rgb(44, 42, 42);
+    width: 100%;
+}
+

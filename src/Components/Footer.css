@@ -1,0 +1,28 @@
+ h6{
+    margin: 0 auto;
+    color: #fff;
+}
+.col-md-3 a {
+
+text-decoration: none;
+}
+ul li a{ 
+    cursor: pointer;  
+
+    text-decoration: none;
+}
+ul li a:hover{ 
+  
+    
+    text-decoration: none;
+}
+.footer-header{
+    margin-top: 20px;
+}
+@media only screen and (max-width:480px){
+.col-md-3 a{
+ color: red;
+ text-align: justify;
+}
+
+}

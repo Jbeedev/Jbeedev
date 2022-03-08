@@ -1,0 +1,70 @@
+.img23{
+    width: 70%;
+    height:20%;
+    margin-left: 60px;
+}
+
+.display-block{
+    display: block;
+}
+
+.display-none{
+    display: none;
+}
+/*
+.side_active{
+    background-color:pink;
+    border-radius: 40px;
+    width: 70%;
+    
+}
+*/
+
+.but{
+    border-bottom: 3px solid rgb(98, 33, 204);
+    border-radius: 40px;
+    width: 50%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+.but:active{
+    border-bottom: 3px solid rgb(98, 33, 204);
+    border-radius: 40px;
+    width: 50%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.but:hover{
+  background-color: rgb(98, 84, 223);
+  width: 50%;
+  border-radius: 30px;
+  color: #fff;
+}
+
+.but-active{
+    background-color: rgb(98, 84, 223);
+    border-radius: 40px;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    border-bottom: 4px solid grey;
+  }
+
+.serv_button{
+    text-align: center;
+}
+ul .serv_ul{
+    background-color: rgba(240, 237, 223, 0.486);
+}
+.service_btn{
+
+    width: 25%;
+    padding-left: 20px;
+}
